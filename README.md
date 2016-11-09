@@ -1,2 +1,3 @@
 # wechatapp-fullpage-scroll
-![image](https://github.com/rongj/wechaapp-fullpage-scroll/blob/master/fullpage.GIF)
+![image](https://github.com/rongj/wechatapp-cascade-filter/blob/master/filter.GIF)
+![image](https://github.com/rongj/wechatapp-cascade-filter/blob/master/scrollloading.GIF)
